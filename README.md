@@ -19,3 +19,11 @@ RFID Card Reader built using  Nodemcu, RFID-Reader RC522, Arduino IDE and XMPP .
 
 
 **Download required libraries for NodeMCU**
+
+## Contact
+
+If you want to contact me you can reach me at [Instagram](https://www.instagram.com/prakashravichandrann/).
+
+## License
+
+This project is **free to use** and does not contains any license.
