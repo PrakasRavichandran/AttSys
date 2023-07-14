@@ -30,9 +30,15 @@ The Automatic Attendance System is a project that utilizes RFID technology, Node
 
 **Download required libraries for NodeMCU**
 
-## PCB Design
+## Web Preview
 
-![PCB Design](pcb.png)
+![Attendance](A1.png)
+
+![Attendance](A2.png)
+
+![Attendance](A3.png)
+
+![Attendance](A4.png)
 
 ## Prerequisites
 
