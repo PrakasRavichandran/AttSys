@@ -1,4 +1,5 @@
-# Automatic Attendance System
+<img align="center" src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/att.png">
+<h1 align="center" style="color: #44AEFB;">🐾   Automatic Attendance System</h1>
 
 The Automatic Attendance System is a project that utilizes RFID technology, NodeMCU, and XMPP to automate the attendance process. This repository contains the C++ programming code for the system.
 
